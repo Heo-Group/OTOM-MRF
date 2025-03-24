@@ -4,9 +4,8 @@
 OTOM network consists of 3 layer LSTM with 512 hidden states. 
 OTOM takes an input vector of MTC signal and the corresponding scan parameters: [Smtc, saturatin power (B1), frequency offset (Omega), saturation time (Ts), delay time (Td)].
 The hidden state updated with all input vectors from MRF is used to estimate quantitative water and MTC parameters. 
+(publicaiton) <https://doi.org/10.1002/mrm.29629> <https://link.springer.com/chapter/10.1007/978-3-031-16446-0_37>
 
-
-[Publication](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_37) (https://doi.org/10.1007/978-3-031-16446-0_37)
 
 ### Template command
 
